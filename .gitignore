@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+myenv/
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw and generated data
+data/raw/
+data/analysis/
+data/processed/
+
+# Local outputs
+plots/
+reports/
+
+# Streamlit and notebook artifacts
+.streamlit/
+.ipynb_checkpoints/
+
+# Logs
+*.log
