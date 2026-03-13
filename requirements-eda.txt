@@ -1,7 +1,7 @@
-numpy
-pandas
-pyarrow
-spacepy
-plotly
-streamlit
-matplotlib
+numpy==2.4.1
+pandas==2.3.3
+pyarrow==22.0.0
+spacepy==0.7.0
+plotly==6.5.2
+streamlit==1.53.1
+matplotlib==3.10.8
