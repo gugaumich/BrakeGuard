@@ -1,0 +1,2 @@
+vin,start_time,end_time,duration_sec,speed_mph_med,band,trg_mode,min_retard,pct_neg,delay_to_neg,decel_mps2_med,rpm_decay_med,is_clear_failure,severity
+02753,2016-04-06 14:29:34,2016-04-06 14:29:37,3.0,,UNKNOWN,13388.0,0.0,0.0,,,114.125,True,1.3

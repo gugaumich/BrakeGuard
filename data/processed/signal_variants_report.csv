@@ -1,0 +1,2 @@
+base_key,variant_types,raw_signal_count,examples
+UNSPRUNG,"MAX,MEAN,MIN",3,unsprungMax; unsprungMean; unsprungMin
